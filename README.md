@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "[https://github-readme-stats.vercel.app/api?username=pidwid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=pidwid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)">
+<img src = "https://github-readme-stats.vercel.app/api?username=pidwid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 Visitor: ![Visitor Count](https://profile-counter.glitch.me/pidwid/count.svg)
